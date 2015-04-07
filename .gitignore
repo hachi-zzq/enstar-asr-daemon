@@ -1,0 +1,5 @@
+/.idea
+/log
+/usr/tmp/*
+*.pyc
+
